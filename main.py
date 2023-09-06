@@ -1,4 +1,4 @@
 
 def negative(x):
-  return -x:
+  return -x
 
